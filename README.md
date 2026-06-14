@@ -1,26 +1,27 @@
-# Crossword Materials
+# クロスワード教材
 
-小学校低学年向けに作成したクロスワード教材です。
+学童アルバイトで使用する目的で制作した、小学校低学年向けのクロスワード教材です。
 
-学童アルバイトでの活用を目的として制作しました。
+🔗 **URL**: https://sr-econ04.github.io/crossword/
 
-## Features
+## 工夫した点
 
-- ひらがな中心で構成
-- 身近な単語を使用
-- 楽しみながら学べる内容
-- 一人でも、グループでも楽しめる設計
+- 低学年でも読みやすいよう、ひらがなを中心に構成
+- 身近な単語を使用し、楽しみながら取り組める内容に調整
+- 一人でも、グループでも取り組めるような構成
 
-## Materials
+## 教材一覧
 
-- Crossword 1
-  - Question PDF
-  - Answer PDF
+- [クロスワード①（問題）](pdf/crossword1-question.pdf)
+- [クロスワード①（解答）](pdf/crossword1-answer.pdf)
+- [クロスワード②（問題）](pdf/crossword2-question.pdf)
+- [クロスワード②（解答）](pdf/crossword2-answer.pdf)
 
-- Crossword 2
-  - Question PDF
-  - Answer PDF
+## ライセンス・ご利用について
 
-## Website
+© 2026 Sr All Rights Reserved.
 
-https://sr-econ04.github.io/crossword/
+この教材は、学童アルバイトでの利用を目的として個人で制作したものです。
+教育現場などでご活用いただける場合は、事前に下記のメールアドレスまでご連絡いただけると嬉しいです。
+
+**Contact**: Srecon04@gmail.com
